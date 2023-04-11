@@ -1,0 +1,8 @@
+*.sublime-*
+*.idea
+nbproject
+*.orig
+*.bak
+*.tags*
+.DS_STORE
+thumbs.db
